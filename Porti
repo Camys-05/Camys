@@ -30,7 +30,7 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Projeto Forca em Python">
+                    <img img/nome-da-imagem.png>
                     <div class="card-body">
                         <h5 class="card-title">Projeto Forca em Python</h5>
                         <p class="card-text">Meu primeiro projeto em Python, um jogo da forca interativo que permite ao usuário adivinhar palavras e aprender lógica de programação.</p>
@@ -75,6 +75,7 @@
                 <div class="modal-body">
                     <p>Meu primeiro projeto em Python, onde criei um jogo da forca interativo. O usuário pode adivinhar palavras e praticar lógica de programação básica.</p>
                     <p>Utilizei estruturas de repetição, condicionais e manipulação de strings para criar a dinâmica do jogo.</p>
+                   <p><a href="https://drive.google.com/file/d/1XRplGVpntajk_7ERhJUDJ-QrfzqYeyyd/view?usp=sharing" target="_blank">Acessar projeto</a></p>
                 </div>
             </div>
         </div>
@@ -107,6 +108,7 @@
                 <div class="modal-body">
                     <p>Este projeto de Física demonstra o Tubo de Rubens, onde as ondas sonoras são visualizadas através das chamas do fogo.</p>
                     <p>O objetivo é compreender melhor o comportamento das frequências sonoras e como elas podem ser representadas visualmente.</p>
+                   <p><a href="https://docs.google.com/document/d/1QdRniLGM5V_i5T2mo6DHHLHh81nbtDDKtM58T_ryvrs/edit?usp=sharing" target="_blank">Acessar projeto</a></p>
                 </div>
             </div>
         </div>
